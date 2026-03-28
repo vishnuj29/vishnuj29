@@ -49,7 +49,7 @@
 ---
 ## 📂 **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💡 Built and launched my <a href="https://portfoliovishnuj.netlify.app" target="_blank">Portfolio Website</a>!
+1. 💡 Built and launched my <a href="https://portfolio-website-vishnu.netlify.app/" target="_blank">Portfolio Website</a>!
 2. 💻 Created a responsive landing page using HTML, CSS, and JavaScript for a fictional product launch.
 
 ## 📊 *GitHub Stats*
