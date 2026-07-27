@@ -222,6 +222,13 @@ I'm focused on becoming a strong **software engineer** by combining strong CS fu
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuj29&theme=github-dark&hide_border=true" alt="Vishnu Babu Jaiswal's GitHub Contribution Graph" />
+</p>
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
