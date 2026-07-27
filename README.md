@@ -52,16 +52,14 @@
 1. 💡 Built and launched my <a href="https://portfolio-vishnu-delta.vercel.app/" target="_blank">Portfolio Website</a>!
 2. 💻 Created a responsive landing page using HTML, CSS, and JavaScript for a fictional product launch.
 
-## 📊 *GitHub Stats*
+## 📊 GitHub Stats
+
 <p align="center">
-  ## 📊 GitHub Stats:
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=vishnuj29&theme=dark" alt="GitHub Streak" />
+  </a>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=vishnuj29&theme=dark)](https://git.io/streak-stats)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuj29&layout=compact&theme=dark)
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuj29&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 📫 **Contact Me:**  
