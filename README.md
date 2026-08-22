@@ -6,7 +6,7 @@
 
 # Hi, I'm Vishnu Babu Jaiswal 👋
 
-### Software Development Engineer · Java & Spring Boot · SDET & Automation · AI/ML · Full-Stack
+### Software Developer · Java & Spring Boot · Full-Stack · AI/ML · Cybersecurity
 
 <p>
   <a href="https://github.com/vishnuj29">
@@ -25,7 +25,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+%26+Reliable+Software!;Java+%7C+Spring+Boot+%7C+Playwright+%7C+TypeScript;Backend+Engineering+%7C+SDET+%7C+Full+Stack;Turning+Complex+Problems+Into+Clean+Solutions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Software+That+Solves+Real+Problems!;Java+%7C+Spring+Boot+%7C+MySQL;AI%2FML+%7C+Cybersecurity+%7C+Full+Stack;Turning+Ideas+Into+Practical+Solutions!)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,20 +35,21 @@
 
 - 🎓 B.Tech **Information Technology** student at **G.L. Bajaj Institute of Technology & Management**
 - 📊 **CGPA: 8.52**
-- 💻 Passionate about **Backend Engineering, Software Development, SDET / Test Automation, and AI/ML**
-- ☕ Building enterprise-grade backend services using **Java & Spring Boot**
-- 🧪 Designing resilient end-to-end automation frameworks with **Playwright, TypeScript & Page Object Model (POM)**
-- 🗄️ Working with **MySQL, PostgreSQL, RESTful APIs, and relational schema design**
-- 🤖 Exploring **Intelligent Automation, Computer Vision, and Applied AI/ML**
+- 💻 Interested in **Software Development, Backend Engineering, AI/ML, and Quality Assurance**
+- ☕ Building backend applications using **Java & Spring Boot**
+- 🌐 Experienced in developing **full-stack web applications**
+- 🧪 Hands-on with **Playwright, TypeScript & Automated Testing workflows**
+- 🗄️ Working with **MySQL, SQL, REST-based backend architecture and databases**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning and intelligent automation**
 - 🔐 Interested in **Cybersecurity, Secure Coding, API Security and Threat Detection**
 - 🏆 **Winner – MEDHA 2025 Medical Device Hackathon**
 - 🚀 **TCS CodeVita Season 13 – Round 1 Qualified (Global Rank 10452)**
 - 🥇 **Best Prototype & Best Design – Medical Waste Management System**
-- 🌱 Continuously refining **DSA, System Design, Test-Driven Development (TDD), and Software Architecture**
+- 🌱 Continuously improving **DSA, Backend Development, System Design and Software Engineering**
 
 <br clear="right"/>
 
-> **"Build. Test. Automate. Scale. Repeat."**
+> **"Build. Learn. Solve. Improve. Repeat."**
 
 ---
 
@@ -58,25 +59,12 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
-
-## 🧪 Test Automation & Quality Engineering (SDET)
-
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
-
-- **UI Automation**: Playwright, Page Object Model (POM), Cross-Browser Testing, Dynamic Canvas & Drag-and-Drop Automation
-- **API Automation**: REST API Contract Testing, JSON Schema Validation (Ajv), SLA Response Time Benchmarking
-- **Testing Practices**: Test-Driven Development (TDD), Regression Testing, Flaky Test Elimination, CI/CD Pipeline Automation
-- **Reporting**: Playwright HTML Reporter, Trace Analysis, Execution Timing Optimization
 
 ## ☕ Backend Development
 
@@ -84,15 +72,26 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-- Spring Boot & Spring Data JPA
-- Hibernate ORM
-- RESTful Microservices Architecture
-- JWT Authentication & Role-Based Authorization
-- Exception Handling & Request Validation
-- CRUD Operations & Database Indexing
+- Spring Boot & Spring Framework
+- REST API Development
+- Spring Data JPA & Hibernate
+- Backend Architecture
+- Authentication & Authorization
+- Database Integration & CRUD Operations
+
+## 🧪 Testing & Automation Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+- End-to-End UI Automation (Playwright, Page Object Model)
+- REST API Testing & Schema Validation (Ajv)
+- Automated Test Reporting & CI/CD Pipelines
 
 ## 🌐 Frontend Development
 
@@ -103,63 +102,59 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-- Responsive UI Development
-- React Hooks & Component Lifecycle
-- State Management
-- API Integration
+- Responsive Web Development
+- React Components & Hooks
+- API Integration & UI Development
 
 ## 🗄️ Database
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-- MySQL & Relational Data Modeling
-- Complex Queries, Joins, and Aggregations
-- Database Normalization (1NF to 3NF)
-- JPA/Hibernate Mapping & Transactions
+- MySQL & Relational Databases
+- SQL Queries, Joins & Indexing
+- Database Normalization
+- JPA / Hibernate ORM
 
 ## 🧠 Core Computer Science
 
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Design & Design Patterns (POM, Factory, Singleton)
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
 - Database Management Systems (DBMS)
-- Operating Systems & Concurrency
-- Computer Networks (TCP/IP, HTTP/HTTPS, WebSockets)
-- Software Development Life Cycle (SDLC) & Agile/Scrum
+- Operating Systems & Computer Networks
+- Software Development Life Cycle (SDLC)
+- Debugging & Problem Solving
 
-## 🤖 AI / ML & Intelligent Automation
+## 🤖 AI / ML
 
-- Machine Learning & Predictive Modeling
-- Intelligent Process Automation
-- Computer Vision (OpenCV)
-- AI/ML Model Integration into Web & Backend Systems
+- Machine Learning & Data Preprocessing
+- AI-powered Applications & Intelligent Automation
+- Predictive Systems & Risk Detection
 
 ## 🔐 Cybersecurity
 
-- OWASP Top 10 & API Security
-- Secure Coding Practices
-- Vulnerability Assessment & Threat Detection
-- Network Traffic Analysis (Wireshark, Nmap)
+- Security Monitoring & Threat Detection
+- Secure Coding & API Security
+- OWASP Top 10 & Vulnerability Assessment
+- Network Security Fundamentals
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧪 Automation Anywhere SDET Test Automation Framework
+## 🧪 Automation Anywhere SDET Assessment Framework
 
-> An enterprise-grade end-to-end Test Automation Framework built with **Playwright and TypeScript** adhering to the **Page Object Model (POM)** pattern.
+> An end-to-end Test Automation Framework built with **Playwright and TypeScript** adhering to the **Page Object Model (POM)** pattern.
 
 ### ✨ Key Features
-- 🎨 **Use Case 1 (UI Automation)**: Automated dynamic Form Canvas drag-and-drop, multi-property configuration, and complex Rules Builder workflows (AND/OR logic, action assignment, context menus, rule persistence).
+- 🎨 **Use Case 1 (UI Automation)**: Automated dynamic Form Canvas drag-and-drop, multi-property configuration, and complex Rules Builder workflows (AND conditions, action assignment, context menus, rule persistence).
 - ⚡ **Use Case 2 (API Automation)**: Automated authentication, IQ Bot / Learning Instance creation lifecycle, and verified strict JSON Schema compliance using **Ajv** with response-time SLA benchmarks (< 4000ms).
-- 📊 **CI/CD & Reporting**: Integrated GitHub Actions automated pipeline with rich HTML reporting and trace analytics.
+- 📊 **CI/CD & Reporting**: Integrated GitHub Actions automated pipeline with rich HTML reporting.
 
 ### 🔗 Links
 💻 **[GitHub Repository](https://github.com/vishnuj29/Automation-Anywhere-SDET-Assessment)**
-
-**Tech Stack:** `Playwright` `TypeScript` `Page Object Model` `Ajv JSON Schema` `GitHub Actions` `CI/CD`
 
 ---
 
@@ -169,51 +164,45 @@
 
 ### ✨ Key Features
 - 🎙️ Voice-triggered SOS & zero-touch emergency activation
-- 📍 Real-time location tracking and instant alert dispatch
-- 🤖 Intelligent safety automation with predictive risk assessment
-- 📊 Dynamic safety scores and community risk analytics
+- 📍 Real-time location sharing
+- 🚨 Emergency alerts & safety scoring
+- 🤖 Intelligent safety automation
 
 ### 🔗 Links
 🌐 **[Live Demo](https://jan-suraksha-ai.vercel.app/)** | 💻 **[GitHub Repository](https://github.com/vishnuj29/JanSuraksha-AI)**
-
-**Tech Focus:** `AI/ML` `JavaScript` `Web Development` `Emergency Response` `Automation`
 
 ---
 
 ## 🍔 SmartCanteen — Food Ordering & Management Platform
 
-> A full-stack enterprise food ordering and canteen management system built with **Java, Spring Boot, MySQL, and React**.
+> A full-stack food ordering and management platform built using **Java, Spring Boot, MySQL, and React**.
 
 ### ✨ Key Features
-- 🍕 Dynamic menu catalog and shopping cart management
-- 👤 User authentication and secure **JWT-based authorization**
-- 📦 Real-time order tracking and price calculations
-- 🗄️ Persistent database integration with **Spring Data JPA & Hibernate**
-- 🌐 Clean RESTful API architecture with comprehensive validation
+- 🍕 Food menu & shopping cart management
+- 👤 User authentication & JWT-based authorization
+- 📦 Order placement & price calculation
+- 🗄️ MySQL database integration with Spring Data JPA & Hibernate
 
-**Tech Stack:** `Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `React`
+**Tech Stack:** `Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `React` `JavaScript`
 
 ---
 
 ## ♻️ Swachh — Smart Waste Management System
 
-> An intelligent IoT & web-based waste management platform designed to optimize urban cleanliness through centralized monitoring dashboards.
+> An intelligent waste management solution designed to improve urban cleanliness through smart monitoring, centralized dashboards and data-driven waste collection.
 
 ### ✨ Key Features
-- 📡 Real-time waste level monitoring
-- 📊 Centralized administrative dashboard
-- 🔔 Automated collection alerts and data-driven route optimization
+- 📡 Smart waste monitoring & real-time dashboard
+- 🔔 Automated alerts & data-driven analytics
 
 ### 🔗 Links
 🌐 **[Live Demo](https://login-eight-dun.vercel.app/)** | 💻 **[GitHub Repository](https://github.com/vishnuj29/Swachh-Unified-main)**
-
-**Tech Focus:** `IoT` `Web Development` `Dashboard` `Real-Time Monitoring` `Analytics`
 
 ---
 
 ## 🧼 AI-Powered Sanitization Monitoring System
 
-> An AI-based computer vision solution designed to monitor hygiene compliance and generate automated audit reports for healthcare facilities.
+> An AI-based monitoring solution designed to improve sanitization and hygiene compliance using intelligent monitoring and automated reporting.
 
 ### 🔗 Links
 💻 **[GitHub Repository](https://github.com/vishnuj29/AI-Sanitization)**
@@ -225,23 +214,22 @@
 ## 🤖 AI/ML Intern — Edunet Foundation
 **Jun 2025 – Aug 2025**
 - Worked on practical **Artificial Intelligence and Machine Learning workflows**.
-- Performed data preprocessing, model training, and evaluation.
-- Gained hands-on exposure to **AWS Academy and cloud infrastructure**.
+- Performed data preprocessing and model development.
+- Gained hands-on exposure to **AWS Academy and cloud-based technologies**.
 
 ---
 
 ## 🌐 Web Developer Intern — Tpoint Tech Pvt. Ltd.
 **Aug 2025 – Oct 2025**
-- Developed responsive, cross-browser compatible web interfaces using **HTML5, CSS3, and JavaScript**.
-- Optimized frontend load times and enhanced application UI/UX reliability.
+- Developed responsive web interfaces using **HTML, CSS and JavaScript**.
+- Worked on web application development and debugging.
 
 ---
 
 ## ☕ Full Stack Java Intern — The Developers Arena
 **Nov 2025 – Jan 2026**
-- Developed robust backend services using **Java and Spring Boot**.
-- Implemented persistent data layers using **Spring Data JPA and MySQL**.
-- Built and documented REST APIs for end-to-end CRUD operations.
+- Developed applications using **Java and Spring Boot**.
+- Worked with backend business logic and database integration using **MySQL and Spring Data JPA**.
 
 ---
 
@@ -268,14 +256,13 @@
 
 | Achievement | Details |
 |---|---|
-| 🥇 **MEDHA 2025 Winner** | 1st Place – National Medical Device Hackathon |
+| 🥇 **MEDHA 2025 Winner** | Winner – Medical Device Hackathon |
 | 🏆 **Best Prototype** | Medical Waste Management System |
 | 🎨 **Best Design** | Medical Waste Management System |
-| 🚀 **TCS CodeVita Season 13** | Round 1 Qualified · Global Rank 10,452 |
+| 🚀 **TCS CodeVita Season 13** | Round 1 Qualified · Global Rank 10452 |
 | ⚡ **HP Power Lab 2.0** | Advanced to Round 2 among 2,000+ teams |
-| 🏅 **HackStasy 2025** | Top 40 Finalist Teams |
+| 🏅 **HackStasy 2025** | Top 40 Teams |
 | 🧠 **Naukri Campus Young Turks 2025** | 97.24 Percentile |
-| 💡 **Hackathons** | Finalist across multiple national innovation competitions |
 
 ---
 
@@ -285,22 +272,11 @@
 - 🤖 **AI/ML Training — Edunet Foundation / AICTE / AWS Academy**
 - 🏥 **Medical Device Innovation Program — IIT Bombay / BETiC**
 - 💻 **Cybersecurity for Businesses**
-- 🏆 **MEDHA 2025 Hackathon Award Certificate**
-- 🚀 **HP Power Lab 2.0 Certification**
+- 🏆 **MEDHA 2025 Medical Device Hackathon**
+- 🚀 **HP Power Lab 2.0**
 
 ---
 
-# 📚 What I'm Currently Focusing On
-
-```text
-Data Structures & Algorithms
-             ↓
-Enterprise Java & Spring Boot Architecture
-             ↓
-SDET, Test Automation & CI/CD Pipelines (Playwright / TypeScript)
-             ↓
-System Design & Scalable REST APIs
-             ↓
-Applied AI / Machine Learning & Intelligent Automation
-             ↓
-Cloud & Production Reliability
+<div align="center">
+  <sub>Designed with ❤️ by Vishnu Babu Jaiswal</sub>
+</div>
