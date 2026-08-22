@@ -245,6 +245,25 @@
 
 ---
 
+# 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuj29&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="175" />
+  <img src="https://streak-stats.demolab.com?user=vishnuj29&theme=radical&hide_border=true" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuj29&layout=compact&theme=radical" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuj29&theme=github-dark&hide_border=true" alt="Vishnu Babu Jaiswal's GitHub Contribution Graph" width="100%" />
+</p>
+
+---
+
 # 🏆 Achievements
 
 | Achievement | Details |
